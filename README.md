@@ -32,4 +32,9 @@ To ensure reproducibility and transparency, below are the core training paramete
 - **Hardware**: Trained on an NVIDIA RTX 4090 GPU  
 - **Frameworks**: PyTorch, OpenCV, Qt5
 
-If you use this tool in your research, please cite our accompanying paper，《Transformer-Based Multi-Scale Feature Fusion for Real-Time CT Bone Metastasis Detection》
+If you use this tool in your research, please cite our accompanying paper:
+@article{
+  title={Transformer-Based Multi-Scale Feature Fusion for Real-Time CT Bone Metastasis Detection},
+  year={2025}
+}
+
